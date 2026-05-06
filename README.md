@@ -34,7 +34,7 @@ I don't just write code; I build **Digital Empires**. My focus is always on conv
 ### 📫 Connect with Me
 - **LinkedIn:** [Baloch Digitex](https://www.linkedin.com/in/baloch-digitex/)
 - **Location:** Qatar (Relocating) / Remote
-- **Email:** balochdigitex@gmail.com (balochdigitex@gmail.com)
+- **Email:** balochdigitex@gmail.com
 
 ---
 *“Turning raw data into profitable digital assets, one commit at a time.”*
