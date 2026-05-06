@@ -1,18 +1,17 @@
-# Hi, I'm Naeem Baloch
-### Full-Stack Developer | SEO Strategist | Automation Expert
+# Hi there, I'm Naeem Baloch 👋
+### Full-Stack WordPress Developer | P-SEO Strategist | Automation Expert
 
-I specialize in the **"Zero to Scale"** approach, transforming fresh domains into revenue-generating assets through advanced automation and technical SEO.
+I specialize in building, scaling, and automating high-traffic web assets. My core focus is on **Programmatic SEO**, custom web scraping, and converting traffic into sustainable revenue.
 
-## What I Do
-* **Advanced Automation:** Building custom PHP scrapers using DOMXPath and "Smart Assemblers" for P-SEO.
-* **WordPress Architecture:** Developing lightweight, high-performance themes (90+ PageSpeed)[cite: 1, 2].
-* **Data-Driven SEO:** Leveraging Indexing APIs, GSC, and technical audits to dominate rankings[cite: 1, 2].
+Currently building: Automated Data-Driven Media Platforms
+Expertise: PHP, WordPress Architecture, DOMXPath, ACF Pro, E-commerce Funnels
+My Philosophy: "Zero to Scale" - Turning raw data into profitable digital empires.
 
-## Featured Tech Stack
-* **Backend:** PHP, Node.js, Python (for Scraping).
-* **Frontend:** JavaScript (ES6+), CSS3, Custom WP Hooks[cite: 1, 2].
-* **Tools:** GA4/GTM, SEMrush, VPS/Server Management[cite: 1, 2].
+### Tech Stack & Tools
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SEO](https://img.shields.io/badge/Technical_SEO-FF3366?style=for-the-badge)
 
-## Business Impact
-* Managed and optimized platforms like **Knownalytics.com**.
-* Developed the **"before-good"** theme with automated content logic.
+Reach me at: https://www.linkedin.com/in/balochdigitex/
