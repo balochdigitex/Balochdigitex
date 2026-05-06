@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Naeem Baloch
+### Full-Stack Developer | SEO Strategist | Automation Expert
 
-<!--
-**balochdigitex/Balochdigitex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in the **"Zero to Scale"** approach, transforming fresh domains into revenue-generating assets through advanced automation and technical SEO.
 
-Here are some ideas to get you started:
+## What I Do
+* **Advanced Automation:** Building custom PHP scrapers using DOMXPath and "Smart Assemblers" for P-SEO.
+* **WordPress Architecture:** Developing lightweight, high-performance themes (90+ PageSpeed)[cite: 1, 2].
+* **Data-Driven SEO:** Leveraging Indexing APIs, GSC, and technical audits to dominate rankings[cite: 1, 2].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Tech Stack
+* **Backend:** PHP, Node.js, Python (for Scraping).
+* **Frontend:** JavaScript (ES6+), CSS3, Custom WP Hooks[cite: 1, 2].
+* **Tools:** GA4/GTM, SEMrush, VPS/Server Management[cite: 1, 2].
+
+## Business Impact
+* Managed and optimized platforms like **Knownalytics.com**.
+* Developed the **"before-good"** theme with automated content logic.
